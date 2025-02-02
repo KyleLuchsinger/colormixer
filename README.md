@@ -15,7 +15,7 @@ Players navigate through 10 progressively challenging levels where they:
 - Kotlin 1.9.22
 - Jetpack Compose with Material 3
 - AndroidX Core KTX 1.12.0
-- Custom sound management system
+- Custom sound management system (Specific sound files NOT contained in project, prefer royalty free sounds)
 - State management using Compose state
 - Canvas-based game rendering
 
