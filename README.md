@@ -1,6 +1,6 @@
-# Color Flow Circuit 🌈
+# Color Flow 🌈
 
-Color Flow Circuit is an engaging puzzle game where players create and mix color paths to solve increasingly challenging levels. Built with modern Android development technologies and featuring smooth animations, cosmic themes, and intuitive touch controls. This is a personal project that I could expand on in the future, mainly to test making an Android Application.
+Color Flow is an engaging puzzle game where players create and mix color paths to solve increasingly challenging levels. Built with modern Android development technologies and featuring smooth animations, cosmic themes, and intuitive touch controls. This is a personal project that I could expand on in the future, mainly to test making an Android Application.
 ## 🎮 Gameplay
 
 Players navigate through 10 progressively challenging levels where they:
